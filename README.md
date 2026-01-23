@@ -1,4 +1,4 @@
- ㅇ# DICOM Viewer (Python, PyQt)
+ # DICOM Viewer (Python, PyQt)
 
 A Python-based DICOM viewer built with PyQt, providing medical image visualization
 and essential image manipulation features.
