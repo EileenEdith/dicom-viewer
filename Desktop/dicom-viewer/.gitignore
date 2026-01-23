@@ -1,0 +1,33 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== OS / Editor =====
+.DS_Store
+.vscode/
+.idea/
+
+# ===== Python packaging =====
+build/
+dist/
+*.egg-info/
+
+# ===== Logs =====
+*.log
+
+# ===== Model files (optional) =====
+# If you decide NOT to upload large models
+# models/*.h5
+# models/*.pth
+
+# ===== Experimental / temporary files =====
+models/experimental/
+temp/
