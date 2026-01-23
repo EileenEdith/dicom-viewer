@@ -3,7 +3,7 @@
 A Python-based DICOM viewer built with PyQt, providing medical image visualization
 and essential image manipulation features.
 
-This project was developed in **2023** as part of an **industry–academia collaboration project**,
+This project was developed in **2023** as part of an industry–academia collaboration project**,
 focusing on understanding medical imaging data and building a GUI-based visualization tool.
 
 ---
