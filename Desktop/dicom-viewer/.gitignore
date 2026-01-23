@@ -7,9 +7,6 @@ __pycache__/
 .venv
 venv/
 
-# ===== Jupyter =====
-.ipynb_checkpoints/
-
 # ===== OS / Editor =====
 .DS_Store
 .vscode/
@@ -31,3 +28,4 @@ dist/
 # ===== Experimental / temporary files =====
 models/experimental/
 temp/
+
