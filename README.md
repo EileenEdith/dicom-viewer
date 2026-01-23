@@ -3,7 +3,7 @@
 A Python-based DICOM viewer built with PyQt, providing medical image visualization
 and essential image manipulation features.
 
-This project was developed in **2023** as part of an industry–academia collaboration project**,
+This project was developed in **2023** as part of an **industry–academia collaboration project**,
 focusing on understanding medical imaging data and building a GUI-based visualization tool.
 
 ---
@@ -41,16 +41,20 @@ This project aims to:
 - **Language**: Python  
 - **GUI**: PyQt  
 - **Medical Imaging**: pydicom  
-- **Image Processing**: NumPy, OpenCV
+- **Image Processing**: NumPy, OpenCV  
 
 ---
-▶️ How to Run
-# 1. Clone the repository
-git clone https://github.com/USERNAME/dicom-viewer.git
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/bagseungbin/dicom-viewer.git
 cd dicom-viewer
 
-# 2. Install dependencies
+### 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the application
+### 3. Run the application
 python app/main.py
