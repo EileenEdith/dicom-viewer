@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pydicom
+PyQt5
+matplotlib
+Pillow
